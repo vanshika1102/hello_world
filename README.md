@@ -1,2 +1,3 @@
 # hello_world
-welcome to github
+This Repo / Project contains source code for 
+My own String Lib in c.
