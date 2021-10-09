@@ -4,3 +4,7 @@ My own String Lib in c.
 new line
 
 By Akash Nagwanshi
+ Assitant Professor
+ from sgsits 
+
+ 
