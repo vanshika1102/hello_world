@@ -4,11 +4,11 @@ LIB =
 
 all: main
 
-heloo:
-	$(CC) $(CFLAGS) -c heloo.c 
-
-main:heloo
-	$(CC) $(CFLAGS) heloo.o main.c -o main
+hello:
+	$(CC) $(CFLAGS) -c hello.c 
+ 
+ main:hello
+	$(CC) $(CFLAGS) hello.o main.c -o main
 
 run:
-	.\main.exe
+	.\main
